@@ -4,3 +4,7 @@ site_author: Yuri Damasceno
 theme: 
   name: material
   language: pt
+
+plugins:
+    - search
+    - mermaid2

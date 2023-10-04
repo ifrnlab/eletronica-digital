@@ -66,4 +66,33 @@ Veja qual é o subcomando do MkDocs para publicar no GitHub, execute-o e siga as
 
 Não conseguiu? Pois então [veja essa pequena ajuda](ajuda-publicacao-github.md).
 
+## Aprendendo mais sobre Markdown
 
+Veja:
+
+1. [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+1. [Markdown Help -- em inglês](https://commonmark.org/help/)
+2. [Markdown Tutorial -- em inglês](https://commonmark.org/help/tutorial/)
+
+## Diagramas
+
+Você já ouviu falar do Mermaid JS?
+
+Não. Pois veja:
+
+1. [Mermaid JS Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
+1. [Mermaid JS live](https://mermaid.live/)
+
+Para habilitar os diagramas Mermaid em seu site:
+
+1. Adicione uma linha com `mkdocs-mermaid2-plugin` no arquivo [requirements.txt](requirements.txt);
+1. Instale os novos requisitos. Vá ao terminal e execute: `pip3 install -U -r requirements.txt`
+1. Edite o arquivo [mkdocs.yml](mkdocs.yml) e acrescente as seguintes linhas:
+
+```
+plugins:
+    - search
+    - mermaid2
+```
+
+Depois [execute o servidor de teste](#execu%C3%A7%C3%A3o-do-servidor-de-teste) e refaça os outros passos (Adição, publicação e etc.).
