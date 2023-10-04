@@ -46,6 +46,7 @@ Vá ao diretório [/docs](/docs/) e crie arquivos Markdown (Extensão `.md`).
 
 - `git status`
 - `git add .`
+- `git status`
 
 
 ## Registro das mudanças e sincronização com repositório remoto (GitHub)
