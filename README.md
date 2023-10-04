@@ -52,7 +52,18 @@ Vá ao diretório [/docs](/docs/) e crie arquivos Markdown (Extensão `.md`).
 ## Registro das mudanças e sincronização com repositório remoto (GitHub)
 
 - `git commit -m "MENSAGEM"`
+- `git status`
 
 Escolha uma mensagem relevante.
 
 - `git push`
+
+## Publicação do site
+
+- `mkdocs`
+
+Veja qual é o subcomando do MkDocs para publicar no GitHub, execute-o e siga as instruções (TV! Te vira!).
+
+Não conseguiu? Pois então [veja essa pequena ajuda](ajuda-publicacao-github.md).
+
+
