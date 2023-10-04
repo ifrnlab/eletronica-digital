@@ -1,0 +1,1 @@
+{"config":{"lang":["pt"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"In\u00edcio","text":""},{"location":"algebra-booleana/","title":"\u00c1lgebra Booleana","text":"A B A+B 0 0 0 0 1 1 1 0 1 1 1 1"}]}
