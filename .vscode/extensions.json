@@ -1,7 +1,12 @@
 {
     "recommendations": [
+        "bierner.markdown-mermaid",
+        "christian-kohler.path-intellisense",
         "docsmsft.docs-authoring-pack",
-        "yzhang.markdown-all-in-one",
-        "bierner.markdown-mermaid"
+        "docsmsft.docs-markdown",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-ssh",
+        "vscode-icons-team.vscode-icons",
+        "yzhang.markdown-all-in-one"
     ]
 }
