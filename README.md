@@ -10,9 +10,17 @@ mkdocs
 mkdocs-material
 ```
 
+## Criação e ativação do ambiente virtual
+
+- `python3 -m venv .venv`
+- `source .venv/bin/activate`
+
+
 ## Instalação dos requisitos
 
-No terminal (Ctrl+J), digite o comando: `pip3 install -r requirements.txt`
+No terminal (Ctrl+J), digite o comando: 
+
+- `pip3 install -r requirements.txt`
 
 
 ## Criação de novo projeto
