@@ -27,4 +27,4 @@ To https://github.com/ifrnlab/eletronica-digital
 INFO    -  Your documentation should shortly be available at: https://ifrnlab.github.io/eletronica-digital/
 ```
 
-Leia a última link, pois nela você encontrará o link de seu novo site. Parabéns!
+Leia a última linha, pois nela você encontrará o link de seu novo site. Parabéns!
